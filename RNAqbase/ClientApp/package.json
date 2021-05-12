@@ -34,7 +34,7 @@
     "angular7-csv": "^0.2.12",
     "aspnet-prerendering": "^3.0.1",
     "bootstrap": "^4.1.3",
-    "chart.js": "^2.7.2",
+    "chart.js": "^2.9.4",
     "core-js": "^2.5.4",
     "datatables.net": "^1.10.19",
     "datatables.net-dt": "^1.10.19",
